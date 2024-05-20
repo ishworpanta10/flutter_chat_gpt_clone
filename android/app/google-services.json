@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "781111433015",
+    "project_id": "gpt-clone-dc08d",
+    "storage_bucket": "gpt-clone-dc08d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781111433015:android:d7da22cb1cd47638062cb2",
+        "android_client_info": {
+          "package_name": "com.ishworpanta.gpt.gpt_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781111433015-djc8729pn4c6vcb64apibkgit31v2777.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ishworpanta.gpt.gpt_clone",
+            "certificate_hash": "f3cde64ea850c3295218c80b2547ab59980e9141"
+          }
+        },
+        {
+          "client_id": "781111433015-5vib99si97qa8ortlv1qta1bn0c14p3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc--2IdHW7VseHk2I-4mpT7Co_2E3JuSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781111433015-5vib99si97qa8ortlv1qta1bn0c14p3u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "781111433015-9tr6anbebg9v4vkia1kdqeg7ifb05lk6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ishworpanta.gpt.gptClone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
